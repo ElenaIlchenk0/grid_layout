@@ -1,6 +1,14 @@
 # Grid_layout
 
-//JS: Верификация полного заполнения полей формы (при нажатии кнопки "отправить")
-//Верификация логики заполнения полей с датами (при нажатии кнопки "отправить")
-//Сохранение введенных данных для последующей отправки через Ajax
-//Вывод модального окна, если все заполнено верно
+elenailchenk0.github.io/grid_layout/
+
+HTML/CSS/SASS:
+//Adaptive layout for all types of screens, made on grids
+
+JavaScript/JQuery: 
+//Verification of the complete filling of the form fields (by click on Submit)
+//Verification of the logic of filling in fields with dates (by click on Send button)
+//Saving the entered data for later submission via Ajax
+//Display modal if everything is correct
+
+
